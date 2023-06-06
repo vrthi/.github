@@ -6,11 +6,11 @@
 
 ### 👋 Introduction
 
-We are an open-source professional networking and career service platform.
+We are an open-source career service and professional networking platform.
 
 ### 🎯 Objective
 
-To build an open-source professional networking and career service platform that is secure, ad-free, and compliant with the rules and regulations of each country.
+To build an open-source career service and professional networking platform that is secure, ad-free, and compliant with the rules and regulations of each country.
 
 ### 🌈 Contribution guidelines
 
