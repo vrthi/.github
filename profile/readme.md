@@ -34,7 +34,8 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Vrthi logo in Blue |   Vrthi logo in White
+  Vrthi logo in Blue (`#0056D6`) |   Vrthi logo in White (`#FEFEFE`)
   :-------------------------: |  :-------------------------:
-  ![Vrthi Logo in Blue](https://github.com/vrthi/.github/assets/68323012/aaa950fa-918c-4ac8-a780-b05d31885030) |  ![Vrthi Logo in White](https://github.com/vrthi/.github/assets/68323012/aaa950fa-918c-4ac8-a780-b05d31885030)
+  ![Vrthi Logo in Blue](https://github.com/vrthi/.github/assets/68323012/1ee18e4e-c5e7-4ac7-a26c-1f7e68f60980) |  ![Vrthi Logo in White](https://github.com/vrthi/.github/assets/68323012/ebf517ba-bfc0-4d9f-9bcb-a0a6b0c5469f)
+
 
