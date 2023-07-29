@@ -26,17 +26,15 @@ We kindly request that you review each of them before you start working on the r
 #### Social:
   - Website: https://www.vrthi.in
   - LinkedIn: https://www.linkedin.com/company/vrthi
-  - Twitter: https://www.twitter.com/vrthi_in
   - Mastodon: https://www.mastodon.social/@vrthi
-  - Koo: https://www.kooapp.com/profile/vrthi
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
 #### Logo:
 
-  Vrthi logo in Blue (`#0056D6`) |   Vrthi logo in White (`#FEFEFE`)
-  :-------------------------: |  :-------------------------:
-  ![Vrthi Logo in Blue](https://github.com/vrthi/.github/assets/68323012/28bc4934-7979-44c8-965c-0d1fd803375d) |  ![Vrthi Logo in White](https://github.com/vrthi/.github/assets/68323012/e18e9e46-babc-4717-9eeb-d74090139b87)
+Vrthi logo in Blue (`#0056D6`) |   Vrthi logo in White (`#FEFEFE`)
+:-------------------------: |  :-------------------------:
+![Vrthi Logo in Blue](https://github.com/vrthi/.github/assets/68323012/28bc4934-7979-44c8-965c-0d1fd803375d) |  ![Vrthi Logo in White](https://github.com/vrthi/.github/assets/68323012/e18e9e46-babc-4717-9eeb-d74090139b87)
 
 
 
